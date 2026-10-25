@@ -4,8 +4,8 @@ This repository contains my lab work for Human-Computer Interaction (HCI) and Co
 
 ## Student Information
 
-- **Name:** [Your Name]
-- **Registration Number:** [Your Registration Number]
+- **Name:** Ushna Kamran
+- **Registration Number:** 2024-cse-070
 - **Course:** Human-Computer Interaction and Computer Graphics
 
 ## Lab 1: Toolchain, Git, and First Pixels
